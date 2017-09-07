@@ -1,0 +1,1 @@
+document.querySelector('button.control-button.control-button--circled')[0].click();
